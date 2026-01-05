@@ -8,7 +8,7 @@
 </ul>
 
 <a href="https://www.linkedin.com/in/abhishesh-pradhan/" rel="nofollow" style="margin-left:10px;">
-  <img alt="Abhishesh's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" style="max-width:100%;">
+  <img alt="Abhishesh's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png " style="max-width:100%;">
 </a>
 
 
