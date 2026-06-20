@@ -1,6 +1,9 @@
 # Hi, I'm Abhi 👋
 
 ### Software Engineer - full-stack capable, happiest in the UI
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradhan.abhishesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishesh-pradhan/)
+
 
 I build things for the web and care a little too much about how they *feel*. Full-stack when I need to be, but my heart is in interfaces, interaction, and the small UX details that make a product click.
 
@@ -25,8 +28,6 @@ I build things for the web and care a little too much about how they *feel*. Ful
 
 **Also do:** APIs, databases, and the backend glue to ship full products end-to-end
 
----
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheshPradhan&layout=compact&hide_border=true&theme=transparent)
 
 ---
@@ -42,14 +43,6 @@ I build things for the web and care a little too much about how they *feel*. Ful
 - **[Kindello](http://kindello.vercel.app/)** - Every approved childcare and early-education service in Australia
 - **Podcast Transcript** - download transcripts from any podcast. Supports all platforms + mp3/mp4 upload.
 
-
 ---
 
-### 📫 Reach me
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradhan.abhishesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishesh-pradhan/)
-
----
-
-<sub>Repositories of my coding journey and side projects.</sub>
+Repositories of my coding journey and side projects.
