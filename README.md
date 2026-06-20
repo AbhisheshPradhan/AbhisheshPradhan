@@ -27,23 +27,21 @@ I build things for the web and care a little too much about how they *feel*. Ful
 
 ---
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheshPradhan&layout=compact&hide_border=true&theme=transparent)
+
+---
+
 ### 🚀 Shipped Projects
 
 - **[YouTube Transcript Download](https://youtubetranscriptdownload.com/)** - download transcripts for an entire channel or playlist in seconds, not just a single video.
 - **[Aspectly - Dual Capture Video](https://apps.apple.com/au/app/dual-capture-video-aspectly/id6775155682)** - iOS app with 3 capture modes (including front + back dual capture), vertical and horizontal shooting, and 4 aspect ratios from a single recording.
 
-<!--
-Add more projects like this:
+### 👨‍💻 Working on
 
-- **[Project Name](https://link.com)** - one-line description of what it does.
--->
+- **Nepali Eats** - every hidden gem serving real Nepali food all across Australia, gathered in one happy place.
+- **[Kindello](http://kindello.vercel.app/)** - Every approved childcare and early-education service in Australia
+- **Podcast Transcript** - download transcripts from any podcast. Supports all platforms + mp3/mp4 upload.
 
----
-
-### 📊 GitHub
-
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhisheshPradhan&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheshPradhan&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
@@ -51,5 +49,7 @@ Add more projects like this:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradhan.abhishesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishesh-pradhan/)
+
+---
 
 <sub>Repositories of my coding journey and side projects.</sub>
