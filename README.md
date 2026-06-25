@@ -34,14 +34,29 @@ I build things for the web and care a little too much about how they *feel*. Ful
 
 ### 🚀 Shipped Projects
 
-- **[YouTube Transcript Download](https://youtubetranscriptdownload.com/)** - download transcripts for an entire channel or playlist in seconds, not just a single video.
-- **[Aspectly - Dual Capture Video](https://apps.apple.com/au/app/dual-capture-video-aspectly/id6775155682)** - iOS app with 3 capture modes (including front + back dual capture), vertical and horizontal shooting, and 4 aspect ratios from a single recording.
+- **[YouTube Transcript Download](https://youtubetranscriptdownload.com/)** 
+  - Download transcripts for an entire channel or playlist in seconds (API available)
+  - Next.js + MongoDB + InnerTube/Webshare proxy, with Firebase Auth, Stripe credits, OpenAI AI features, and an MCP server.
+  
+- **[Aspectly - Dual Capture Video](https://apps.apple.com/au/app/dual-capture-video-aspectly/id6775155682)** 
+  - Multi-camera video recorder for iOS
+    - SwiftUI + AVFoundation, AVCaptureMultiCamSession for simultaneous dual-lens / front-and-back capture
+    - AVAssetWriter recording with AVSampleBufferDisplayLayer previews
+    - StoreKit 2 subscriptions, CoreLocation tagging, shipping on the App Store.
 
 ### 👨‍💻 Working on
 
-- **Nepali Eats** - every hidden gem serving real Nepali food all across Australia, gathered in one happy place.
-- **[Kindello](http://kindello.vercel.app/)** - Every approved childcare and early-education service in Australia
-- **Podcast Transcript** - download transcripts from any podcast. Supports all platforms + mp3/mp4 upload.
+- **[Nepali Eats](https://nepali-eats.vercel.app/)** 
+  - Map-driven directory of Nepali restaurants in Australia. 
+  - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Playwright + Google Places API, Cloudflare R2, Clerk auth, on Vercel.
+
+- **[Kindello](http://kindello.vercel.app/)** 
+  - Map-driven directory of approved childcare in Australia.
+  - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Python ingest of ACECQA + G-NAF geocoding, Puppeteer/DuckDuckGo crawler over Webshare proxies, Vercel AI SDK chat, on Vercel.
+
+- **Podcast Transcript** 
+  - Extraction-first podcast transcript SaaS.
+  - Next.js 16, MongoDB Atlas (DB-as-cache), InnerTube + YouTube Data API caption engine over Webshare proxies, iTunes-Search + RSS podcast:transcript ingest, Whisper paid fallback, Clerk auth, Stripe credits/webhooks, OpenAI AI features, shadcn/Tailwind v4, on Vercel behind Cloudflare.
 
 ---
 
