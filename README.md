@@ -28,8 +28,7 @@ I build things for the web and care a little too much about how they *feel*. Ful
 
 **Also do:** APIs, databases, and the backend glue to ship full products end-to-end
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheshPradhan&layout=compact&hide_border=true&theme=transparent)
-
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AbhisheshPradhan&hide_border=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ### 🚀 Shipped Projects
