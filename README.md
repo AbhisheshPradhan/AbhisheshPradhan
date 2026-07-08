@@ -34,7 +34,7 @@ I build things for the web and care a little too much about how they *feel*. Ful
 ### 🚀 Shipped Projects
 
 - **[YouTube Transcript Download](https://youtubetranscriptdownload.com/)** 
-  - Download transcripts for an entire channel or playlist in seconds (API available)
+  - Download transcripts for an entire channel or playlist in seconds (9 formats + API + MCP)
   - Next.js + MongoDB + InnerTube/Webshare proxy, with Firebase Auth, Stripe credits, OpenAI AI features, and an MCP server.
   
 - **[Aspectly - Dual Capture Video](https://apps.apple.com/au/app/dual-capture-video-aspectly/id6775155682)** 
@@ -46,11 +46,11 @@ I build things for the web and care a little too much about how they *feel*. Ful
 ### 👨‍💻 Working on
 
 - **[Nepali Eats](https://nepali-eats.vercel.app/)** 
-  - Map-driven directory of Nepali restaurants in Australia. 
+  - Map-driven directory of all 430+ Nepali restaurants in Australia with enriched data enabling menu item level search.
   - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Playwright + Google Places API, Cloudflare R2, Clerk auth, on Vercel.
 
 - **[Kindello](http://kindello.vercel.app/)** 
-  - Map-driven directory of approved childcare in Australia.
+  - Map-driven directory of all 18,000+ approved childcare in Australia.
   - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Python ingest of ACECQA + G-NAF geocoding, Puppeteer/DuckDuckGo crawler over Webshare proxies, Vercel AI SDK chat, on Vercel.
 
 - **Podcast Transcript** 
