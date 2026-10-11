@@ -45,7 +45,7 @@ I build things for the web and care a little too much about how they *feel*. Ful
 
 ### 👨‍💻 Working on
 
-- **[Nepali Eats](https://nepali-eats.vercel.app/)** 
+- **[Nepali Eats](https://nepalieats.com.au/)** 
   - Map-driven directory of all 430+ Nepali restaurants in Australia with enriched data enabling menu item level search.
   - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Playwright + Google Places API, Cloudflare R2, Clerk auth, on Vercel.
 
