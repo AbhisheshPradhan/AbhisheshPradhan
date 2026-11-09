@@ -50,7 +50,7 @@ I build things for the web and care a little too much about how they *feel*. 6+ 
   - PostgreSQL/PostGIS with raw SQL, Mapbox GL JS, Playwright + Google Places API data pipeline, Cloudflare R2, Clerk, Vercel
   - On the roadmap: a free QR menu for restaurants
  
-- [Ace the OSCE](https://acetheosce.com.au/) (small-group ACEM Fellowship exam prep for emergency medicine) 
+- **[Ace the OSCE](https://acetheosce.com.au/)** (small-group ACEM Fellowship exam prep for emergency medicine) 
   - I built the original WordPress site, then rebuilt it as a statically generated Next.js site with Sanity as the headless CMS
   - Sanity webhooks trigger a Vercel deploy hook, so content edits rebuild the site automatically
 
