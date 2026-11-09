@@ -49,24 +49,16 @@ I build things for the web and care a little too much about how they *feel*. 6+ 
   - Next.js 16 (App Router, React Server Components), SSG restaurant pages and an SSR explore page
   - PostgreSQL/PostGIS with raw SQL, Mapbox GL JS, Playwright + Google Places API data pipeline, Cloudflare R2, Clerk, Vercel
   - On the roadmap: a free QR menu for restaurants
+ 
+- [Ace the OSCE](https://acetheosce.com.au/) (small-group ACEM Fellowship exam prep for emergency medicine) 
+  - I built the original WordPress site, then rebuilt it as a statically generated Next.js site with Sanity as the headless CMS
+  - Sanity webhooks trigger a Vercel deploy hook, so content edits rebuild the site automatically
 
 - **[Aspectly - Dual Capture Video](https://apps.apple.com/au/app/dual-capture-video-aspectly/id6775155682)**
   - Multi-camera video recorder for iOS
     - SwiftUI + AVFoundation, AVCaptureMultiCamSession for simultaneous dual-lens / front-and-back capture
     - AVAssetWriter recording with AVSampleBufferDisplayLayer previews
     - StoreKit 2 subscriptions, CoreLocation tagging, shipping on the App Store
-
-
-### 👨‍💻 Working On
-
-- **Ace the OSCE** (small-group ACEM Fellowship exam prep for emergency medicine)
-  - I built the original WordPress site, then rebuilt it as a statically generated Next.js site with Sanity as the headless CMS
-  - Sanity webhooks trigger a Vercel deploy hook, so content edits rebuild the site automatically
-  - Compare: [acetheosce.com.au](https://acetheosce.com.au/) (WordPress) vs [ace-the-osce.vercel.app](https://ace-the-osce.vercel.app/) (Next.js)
-
-- **[Kindello](http://kindello.vercel.app/)**
-  - Map-driven directory of all 18,000+ approved childcare services in Australia
-  - Next.js 16, Neon Postgres/PostGIS, Mapbox GL JS, Python ingest of ACECQA + G-NAF geocoding, Puppeteer/DuckDuckGo crawler over Webshare proxies, Vercel AI SDK chat, on Vercel
 
 ---
 
